@@ -19,7 +19,7 @@ B_POS = [0, 3]
 B_PRIME_POS = [2, 3]
 DISCOUNT = 0.9
 
-# left, up, right, down
+#down, left, right, up
 ACTIONS = [np.array([0, -1]),
            np.array([-1, 0]),
            np.array([0, 1]),
